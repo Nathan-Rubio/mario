@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import os
 import torch
 import torch.nn as nn
-from coisas import *
+from utils import *
 from collections import deque
 
 acoes_possiveis = {0:128, 1:131, 2:391}
